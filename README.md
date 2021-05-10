@@ -3,7 +3,7 @@
 This project aims to analyze displacement of an active bog between Sept 2015 and Sept 2020. 
 
 Sept 2015 Data:
-Inlination Angle North Eastern Rep. of Ireland.
+Inclination Angle North Eastern Rep. of Ireland.
 ![](InclinationAngle_NE_ROI.jpg)
 
 Digital Elevation Map North Eastern Rep. of Ireland.
